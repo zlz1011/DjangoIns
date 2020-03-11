@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    #自己创建的app:
     'Insta',
+    #第三方app:
+    'imagekit'
 ]
 
 MIDDLEWARE = [
