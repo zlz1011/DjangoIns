@@ -1,0 +1,1 @@
+web: gunicor Instar.wsgi --log-file -
